@@ -1,4 +1,3 @@
-from django.conf.urls import url
 from . import views
 from django.urls import path, re_path, reverse_lazy
 from templates import registration
